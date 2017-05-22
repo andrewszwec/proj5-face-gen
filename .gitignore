@@ -1,0 +1,9 @@
+data
+minst
+*.jpg
+checkpoints
+checkpoint
+*.ckpt
+generator.ckpt.data-00000-of-00001
+generator.ckpt.index
+generator.ckpt.meta
